@@ -1,0 +1,1 @@
+Esta carpeta contendrá los gráficos del análisis del trabajo.
