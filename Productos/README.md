@@ -1,0 +1,1 @@
+En esta carpeta se contendrán los resultados a partir de la base de datos para el trabajo y desarrollo de proyecto.
