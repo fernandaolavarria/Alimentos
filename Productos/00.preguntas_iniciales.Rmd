@@ -1,0 +1,18 @@
+---
+title: "Preguntas iniciales"
+author: "Fer"
+date: "09-10-2021"
+output: html_document
+---
+Aquí se presentan las preguntas iniciales que nos ayudarán a desarrollar el 
+proyecto:
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
