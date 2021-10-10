@@ -7,15 +7,16 @@ output: html_document
 Aquí se presentan las preguntas iniciales que nos ayudarán a desarrollar el 
 proyecto:
 
-1.¿Cuál fue el artista que entró más veces a la lista Billboard visto 
+1.¿Cuáles fueron los artistas que entraron más veces en la lista Billboard visto 
   desde un período de 10 años en 10 años?
 
 2.¿Cuál fue el artista con más canciones en el Billboard entre todo el período 
-  comprendido por 1960 y 2010?
+  comprendido entre 1960 y 2010?
 
 3.¿Cómo fue evolucionando el género de música predominante de 1 año a otro, a 
   través de los años?
 
 4.¿Cuál es el género de música que más se repite en la lista Billboard?
 
-5.
+5.¿Cúal fue el género de música menos escuchado en los diferentes años? 
+  (año por año)
